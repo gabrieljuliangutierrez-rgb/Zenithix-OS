@@ -1,4 +1,20 @@
 Aquí estarán actualizaciónes
+Zenithix 1.2
+¡Llega la nueva actualización Zenithix 1.2! Este release trae importantes mejoras de personalización, optimización del sistema de arranque y la integración inicial de aplicaciones multimedia.
+🚀 Novedades en esta versión:
+Se incluye oficialmente OpenShot como aplicación base para edición de video a partir de hoy.
+Ajustes y mejoras visuales en el gestor de arranque (GRUB) y en la animación de inicio/apagado (Plymouth).
+Actualización de los archivos de configuración del sistema (os-release).
+💡 Agradecimientos y Créditos:
+Un reconocimiento especial a los creadores, comunidades y tecnologías que hacen posible este proyecto:
+MX Linux (Por la base del sistema)
+KDE Plasma (Por el entorno de escritorio)
+Panel Colorizer (Por la personalización visual de la barra)
+El creador de Office-sidebar-grub-themes
+El creador de logo-mac-style (Tema de arranque)
+Flatpak y Flathub (Por la gestión de paquetes)
+A la aplicación OpenShot
+Gracias a todos
 Zinethix1.0
 ¡Hola a todos! 🚀
 Hoy traemos una nueva actualización con varias mejoras y remodelaciones importantes en el sistema y en la estructura de algunas carpetas para optimizar la experiencia.
