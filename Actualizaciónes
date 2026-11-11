@@ -1,5 +1,14 @@
 Aquí estarán actualizaciónes
 Zenithix 1.2
+Nuevas Características
+Diseño de fondos de pantalla (Zeni): Se han incorporado nuevos wallpapers oficiales para personalizar el sistema:
+Fondo Zeni 3 (Nuevo fondo oficial del sistema)
+Fondo Zeni 4
+Fondo Zeni 2
+Fondo Zeni (Versión clásica actualizada)
+🛠️ Corrección de Errores (Bug Fixes)
+Se solucionaron diversos errores de compatibilidad y fallos que se presentaban con el GRUB antiguo.
+Gracias a MX Linux y otros y otras aplicaciones que vienen en Zenithix gracias mucho
 ¡Llega la nueva actualización Zenithix 1.2! Este release trae importantes mejoras de personalización, optimización del sistema de arranque y la integración inicial de aplicaciones multimedia.
 🚀 Novedades en esta versión:
 Se incluye oficialmente OpenShot como aplicación base para edición de video a partir de hoy.
