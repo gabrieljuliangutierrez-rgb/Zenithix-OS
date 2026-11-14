@@ -1,4 +1,34 @@
 Aquí estarán actualizaciónes
+# 🚀 Zenithix ISO_Beta
+
+Distribución Linux basada en el Kernel de **Debian 13** y **MX Linux**, con el entorno de escritorio **KDE Plasma**.
+
+---
+
+### ✅ Resultados de la prueba en vivo de Zenithix:
+1. **Identidad de Zenithix:** Logos integrados en la barra de tareas y menú principal.
+2. **Escritorio KDE Plasma:** Personalizado con sus respectivas modificaciones hechas con **Panel Colorizer**.
+3. **Rendimiento:** Se reconoció un rendimiento estable y fluido durante toda la prueba Live.
+
+---
+
+### ⚠️ Errores conocidos en la prueba:
+Se detectaron los siguientes errores menores que ya están en proceso de corrección:
+* **Marcador residual:** Quedó guardado el acceso `/home/gabriel` en los paneles laterales de Dolphin (`user-places.xbel`).
+* **Caché de Bluetooth:** Se quedó vinculado por accidente un dispositivo a la configuración del sistema, lo cual se corregirá en la próxima actualización de mejoras.
+
+---
+
+### 📌 Atención:
+Debido a los errores detectados en la prueba Live, **no se subirá el archivo ISO público hasta que se corrijan estos detalles** para garantizar una experiencia limpia a todos los usuarios.
+
+---
+
+### 🤝 Agradecimientos:
+Gracias a todos los programas, herramientas y sistemas operativos mencionados que hicieron posible esta release.
+
+**Att: Gabriel**
+
 Zenithix 2.0
 Nuevas Características
 Diseño de fondos de pantalla (Zeni): Se han incorporado nuevos wallpapers oficiales para personalizar el sistema:
