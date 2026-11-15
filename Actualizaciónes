@@ -1,4 +1,43 @@
 Aquí estarán actualizaciónes
+Zenithix-live-beta-3.0
+# ✅ Evaluación Live #3 de Zenithix OS (Resultados Positivos)
+
+Tras realizar la **3.ª evaluación de prueba Live de Zenithix OS**, los resultados fueron **positivos** para avanzar hacia la publicación oficial del sistema operativo.
+
+---
+
+### 📋 Resultados de la prueba Live:
+* **Identificación de Zenithix:** Fondos oficiales integrados desde el arranque en **KDE Plasma 6.3.6**, junto con sus respectivos logos en *Acerca de este sistema* y su URL oficial del proyecto.
+* **Privacidad del sistema:** Se corrigió por completo el error del dispositivo vinculado por Bluetooth y se limpiaron tanto el portapapeles como los accesos del gestor de archivos.
+
+---
+
+### 🚀 Próximo paso:
+Una vez superada esta prueba Live en el equipo principal de creación, se procederá a validar el sistema en **VirtualBox** o en **otra computadora con componentes diferentes** para confirmar la compatibilidad general. Si se supera la prueba en alguno de estos dos entornos, se publicará el resumen final junto con la descarga oficial de la **ISO**.
+
+**Att: Gabriel**
+
+Zenithix-live-beta-2.0
+Tras realizar la **segunda evaluación de prueba en vivo (Live USB)** sobre hardware real, se ha tomado la decisión técnica de **posponer la subida pública de la imagen ISO** hasta alcanzar el estándar de calidad esperado para el proyecto.
+
+---
+
+### 📋 Hallazgos detectados en la 2.ª prueba en vivo:
+* **Fondo de pantalla por defecto:** Aunque el fondo oficial de **Zenithix OS** ya se encuentra integrado dentro de `/usr/share/backgrounds/`, el entorno cargó el fondo genérico al iniciar debido a una ruta desactualizada en la plantilla de usuario (`/etc/skel`).
+* **Historial del portapapeles (`klipper`):** Se detectó una ruta residual de texto en el historial del portapapeles de KDE Plasma.
+
+---
+
+### 🔧 Próximas acciones (En curso para la Build 3.0):
+* Limpieza completa de los directorios actuales `.config`, `.local` y `.cache` dentro de `/etc/skel`.
+* Reconstrucción limpia de la plantilla de usuario desde la configuración actual verificada, asegurando que el fondo oficial cargue desde el primer segundo y sin rastros residuales.
+
+---
+
+### 📌 Estado de descarga:
+La publicación oficial del archivo `.iso` queda temporalmente en pausa hasta validar la **tercera compilación limpia** en entorno real. ¡Gracias por seguir el progreso de **Zenithix OS**!
+
+**Att: Gabriel**
 # 🚀 Zenithix ISO_Beta
 
 Distribución Linux basada en el Kernel de **Debian 13** y **MX Linux**, con el entorno de escritorio **KDE Plasma**.
